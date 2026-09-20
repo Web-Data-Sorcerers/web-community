@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local development & scratch artifacts
+.playwright-mcp/
+scratch/
+*.zip
+*_extracted/
+preview_*.png
+scratch_rendered_*.png
+four_pillars_*.png
+
